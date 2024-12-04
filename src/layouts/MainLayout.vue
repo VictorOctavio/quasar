@@ -59,6 +59,12 @@ const linksList: EssentialLinkProps[] = [
     link: 'about',
   },
   {
+    title: 'New Form',
+    caption: 'Enter to the add form page',
+    icon: 'post_add',
+    link: 'form',
+  },
+  {
     title: 'Login',
     caption: 'Enter to the login page',
     icon: 'login',
